@@ -6,7 +6,7 @@ Analysis purchase data to gain insightful information.
 
 ## Purpose
 
-Using the analysis determine
+Using the analysis to determine
 - gender count
 - gender prices
 - age group
